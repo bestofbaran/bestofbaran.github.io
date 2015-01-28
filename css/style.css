@@ -531,8 +531,8 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #35b890;
+			border-color: #35b890;
 			color: white !important;
 		}
 
@@ -784,7 +784,7 @@
 
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #4d3c58;
+		background-color: #5fa2bf;
 		background-image: 
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
@@ -807,7 +807,7 @@
 
 	#banner {
 		background-attachment: scroll;
-		background-color: #4d3c58;
+		background-color: #5fa2bf;
 		background-image: 
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
